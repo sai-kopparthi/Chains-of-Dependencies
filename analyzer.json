@@ -1,0 +1,15 @@
+{
+    "analyzer_name": "ecs260-31/hw3_4",
+    "author_name": "sai",
+    "author_email": "skopparthi@ucdavis.edu",
+    "version": "0.0.1",
+    "spec_version": "1.2.0",
+    "dependencies": {
+        "public/source-code": "*"
+    },
+    "type": "commit",
+    "output": {
+        "type": "json"
+    },
+    "deterministic": true
+}
